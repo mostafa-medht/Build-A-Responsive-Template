@@ -16,7 +16,7 @@ Build A Responsive Template
 ##  Responsive Grid CSS Website
 
 # Definition
-_Is a project built using **HTML && Grid CSS**, it have many pages:_
+_Is a project built using **HTML && CSS && Flexboxgrid framework**, it have many pages:_
 * _**main page**_ displays a slider, some Features Sec, Section for services and contact info.
   * the user can create content
   * a list of all important preview
